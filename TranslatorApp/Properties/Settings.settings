@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="TranslatorApp.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ApiName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">congnitive-jfi-translate</Value>
+    </Setting>
+    <Setting Name="ApiKey1" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">5f5fc4a8896a46e1a863918009e54bde</Value>
+    </Setting>
+    <Setting Name="ApiKey2" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">0f649774304a4e5db9e930222a066a68</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
